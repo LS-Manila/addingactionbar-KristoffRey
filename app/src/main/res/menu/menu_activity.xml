@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ImageManipulationsActivity">
+
+    <item android:id="@+id/RGBA" android:title="@string/rgba" app:showAsAction="always"></item>
+    <item android:id="@+id/Hist" android:title="@string/hist" app:showAsAction="always"></item>
+    <item android:id="@+id/Canny" android:title="@string/canny" app:showAsAction="ifRoom"></item>
+    <item android:id="@+id/Sepia" android:title="@string/sepia" app:showAsAction="ifRoom"></item>
+    <item android:id="@+id/Sobel" android:title="@string/sobel" app:showAsAction="ifRoom"></item>
+    <item android:id="@+id/Zoom" android:title="@string/zoom" app:showAsAction="ifRoom"></item>
+    <item android:id="@+id/Pixelize" android:title="@string/pixelize" app:showAsAction="ifRoom"></item>
+    <item android:id="@+id/Posterize" android:title="@string/posterize" app:showAsAction="ifRoom"></item>
+    </menu>

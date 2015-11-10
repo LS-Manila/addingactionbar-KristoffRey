@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OCV Image Manipulations</string>
+    <string name="rgba">RGBA</string>
+    <string name="hist">HIST</string>
+    <string name="canny">Canny</string>
+    <string name="sepia">Sepia</string>
+    <string name="sobel">Sobel</string>
+    <string name="zoom">Zoom</string>
+    <string name="pixelize">Pixelize</string>
+    <string name="posterize">Posterize</string>
+</resources>
